@@ -28,7 +28,8 @@
     "test": "jest --passWithNoTests",
     "build": "webpack -p",
     "watch": "webpack --watch",
-    "babel": "babel js -d dist"
+    "babel": "babel js -d dist",
+    "lint": "eslint"
   },
   "repository": "git+https://github.com/NKhashchanov/AHJ-HW2-1.git",
   "author": "NKhashchanov <37711307+NKhashchanov@users.noreply.github.com>",
