@@ -9,6 +9,7 @@ install:
 build: off
 build_script:
 - yarn run build
+- yarn run babel
 test_script:
 - yarn run test
 deploy_script:
