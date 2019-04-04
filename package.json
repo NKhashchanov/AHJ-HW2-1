@@ -26,7 +26,7 @@
   "scripts": {
     "start": "http-server",
     "test": "jest --passWithNoTests",
-    "build": "babel -d dist"
+    "build": "webpack -p"
   },
   "repository": "git+https://github.com/NKhashchanov/AHJ-HW1-1.git",
   "author": "NKhashchanov <37711307+NKhashchanov@users.noreply.github.com>",
